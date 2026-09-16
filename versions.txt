@@ -1,0 +1,6 @@
+Ubuntu: 24.04
+OpenClaw: 2026.7.1-2
+Node.js: 24.18.0
+Npm: 11.16.0
+Model provider: TAMUS
+Model: protected.gpt-4o
